@@ -108,6 +108,7 @@
         <module>ruleunit-event-driven-quarkus</module>
         <module>ruleunit-quarkus-example</module>
         <module>trusty-tracing-quarkus-devservices</module>
+        <module>yard-quarkus-example</module>
       </modules>
     </profile>
 
